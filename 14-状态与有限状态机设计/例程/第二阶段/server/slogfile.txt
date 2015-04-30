@@ -1,0 +1,63 @@
+Time: Wed Oct 22 17:36:17.751 : accept a connection
+Time: Wed Oct 22 17:36:22.759 : Recv frame 0
+Time: Wed Oct 22 17:36:22.759 : Delay
+                0
+Time: Wed Oct 22 17:36:22.759 : Send ACK
+Time: Wed Oct 22 17:36:22.759 : Recv frame 1
+Time: Wed Oct 22 17:36:22.759 : Delay
+                0
+Time: Wed Oct 22 17:36:22.759 : Send ACK
+Time: Wed Oct 22 17:36:22.759 : Recv frame 0
+Time: Wed Oct 22 17:36:22.759 : Delay
+                2
+Time: Wed Oct 22 17:36:24.761 : Send ACK
+Time: Wed Oct 22 17:36:24.761 : Recv frame 1
+Time: Wed Oct 22 17:36:24.761 : Delay
+                1
+Time: Wed Oct 22 17:36:25.763 : Send ACK
+Time: Wed Oct 22 17:36:25.763 : Recv frame 0
+Time: Wed Oct 22 17:36:25.763 : Delay
+                4
+Time: Wed Oct 22 17:36:29.769 : Send ACK
+Time: Wed Oct 22 17:36:29.769 : Recv frame 1
+Time: Wed Oct 22 17:36:29.769 : Delay
+                0
+Time: Wed Oct 22 17:36:29.769 : Send ACK
+Time: Wed Oct 22 17:36:29.769 : Recv frame 0
+Time: Wed Oct 22 17:36:29.769 : Delay
+                3
+Time: Wed Oct 22 17:36:32.773 : Send ACK
+Time: Wed Oct 22 17:36:32.773 : Recv frame 1
+Time: Wed Oct 22 17:36:32.773 : Delay
+                1
+Time: Wed Oct 22 17:36:33.774 : Send ACK
+Time: Wed Oct 22 17:36:33.774 : Recv frame 0
+Time: Wed Oct 22 17:36:33.774 : Delay
+                0
+Time: Wed Oct 22 17:36:33.774 : Send ACK
+Time: Wed Oct 22 17:36:33.774 : Recv frame 1
+Time: Wed Oct 22 17:36:33.774 : Delay
+                0
+Time: Wed Oct 22 17:36:33.774 : Send ACK
+Time: Wed Oct 22 17:36:33.774 : Recv frame 0
+Time: Wed Oct 22 17:36:33.774 : Delay
+                4
+Time: Wed Oct 22 17:36:37.780 : Send ACK
+Time: Wed Oct 22 17:36:37.780 : Recv frame 1
+Time: Wed Oct 22 17:36:37.780 : Delay
+                0
+Time: Wed Oct 22 17:36:37.780 : Send ACK
+                But lost
+Time: Wed Oct 22 17:36:42.787 : Recv frame 1
+Time: Wed Oct 22 17:36:42.787 : Dicard frame 0
+                Duplicate
+Time: Wed Oct 22 17:36:42.787 : Send ACK
+                But lost
+Time: Wed Oct 22 17:36:47.795 : Recv frame 1
+Time: Wed Oct 22 17:36:47.795 : Dicard frame 0
+                Duplicate
+Time: Wed Oct 22 17:36:47.795 : Send ACK
+Time: Wed Oct 22 17:36:47.795 : Recv frame 0
+Time: Wed Oct 22 17:36:47.795 : Delay
+                2
+Time: Wed Oct 22 17:36:49.797 : Send ACK

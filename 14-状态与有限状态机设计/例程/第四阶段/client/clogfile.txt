@@ -1,0 +1,93 @@
+Time Wed Oct 22 17:36:17.751 : Connect to server
+Time Wed Oct 22 17:36:17.751 : Send Frame 0
+But Lost
+Time Wed Oct 22 17:36:22.759 : Timeout
+Time Wed Oct 22 17:36:22.759 : Resend frame 0
+Time Wed Oct 22 17:36:22.759 : Recv ACK
+Time Wed Oct 22 17:36:22.759 : Send frame 1
+Time Wed Oct 22 17:36:22.759 : Recv ACK
+Time Wed Oct 22 17:36:22.759 : Send frame 0
+Time Wed Oct 22 17:36:24.761 : Recv ACK
+Time Wed Oct 22 17:36:24.761 : Send frame 1
+Time Wed Oct 22 17:36:25.763 : Recv ACK
+Time Wed Oct 22 17:36:25.763 : Send frame 0
+Time Wed Oct 22 17:36:29.769 : Recv ACK
+Time Wed Oct 22 17:36:29.769 : Send frame 1
+Time Wed Oct 22 17:36:29.769 : Recv ACK
+Time Wed Oct 22 17:36:29.769 : Send frame 0
+Time Wed Oct 22 17:36:32.773 : Recv ACK
+Time Wed Oct 22 17:36:32.773 : Send frame 1
+Time Wed Oct 22 17:36:33.774 : Recv ACK
+Time Wed Oct 22 17:36:33.774 : Send frame 0
+Time Wed Oct 22 17:36:33.774 : Recv ACK
+Time Wed Oct 22 17:36:33.774 : Send frame 1
+Time Wed Oct 22 17:36:33.774 : Recv ACK
+Time Wed Oct 22 17:36:33.774 : Send frame 0
+Time Wed Oct 22 17:36:37.780 : Recv ACK
+Time Wed Oct 22 17:36:37.780 : Send frame 1
+Time Wed Oct 22 17:36:42.787 : Timeout
+Time Wed Oct 22 17:36:42.787 : Resend frame 1
+Time Wed Oct 22 17:36:47.795 : Timeout
+Time Wed Oct 22 17:36:47.795 : Resend frame 1
+Time Wed Oct 22 17:36:47.795 : Recv ACK
+Time Wed Oct 22 17:36:47.795 : Send frame 0
+Time Wed Oct 22 17:36:49.797 : Recv ACK
+Time Wed Oct 22 17:36:49.797 : Disconnect
+Time Mon Jun 04 09:24:27.734 : Connect to server
+Time Mon Jun 04 09:24:27.734 : Send Frame 0      But Lost
+Time Mon Jun 04 09:24:33.750 : Timeout
+Time Mon Jun 04 09:24:33.750 : Resend frame 0      But lost
+Time Mon Jun 04 09:24:39.750 : Timeout
+Time Mon Jun 04 09:24:39.750 : Resend frame 0
+Time Mon Jun 04 09:24:42.156 : Recv ACK
+Time Mon Jun 04 09:24:42.156 : Send frame 1
+Time Mon Jun 04 09:24:42.156 : Recv ACK
+Time Mon Jun 04 09:24:42.156 : Send frame 0      But lost
+Time Mon Jun 04 09:24:48.156 : Timeout
+Time Mon Jun 04 09:24:48.156 : Resend frame 0
+Time Mon Jun 04 09:24:50.156 : Recv ACK
+Time Mon Jun 04 09:24:50.156 : Send frame 1      But lost
+Time Mon Jun 04 09:24:56.156 : Timeout
+Time Mon Jun 04 09:24:56.156 : Resend frame 1
+Time Mon Jun 04 09:24:57.156 : Recv ACK
+Time Mon Jun 04 09:24:57.156 : Send frame 0
+Time Mon Jun 04 09:25:01.156 : Recv ACK
+Time Mon Jun 04 09:25:01.156 : Send frame 1
+Time Mon Jun 04 09:25:01.156 : Recv ACK
+Time Mon Jun 04 09:25:01.156 : Send frame 0
+Time Mon Jun 04 09:25:04.156 : Recv ACK
+Time Mon Jun 04 09:25:04.156 : Send frame 1
+Time Mon Jun 04 09:25:10.156 : Timeout
+Time Mon Jun 04 09:25:10.156 : Resend frame 1
+Time Mon Jun 04 09:25:16.156 : Timeout
+Time Mon Jun 04 09:25:16.156 : Resend frame 1      But lost
+Time Mon Jun 04 09:25:22.156 : Timeout
+Time Mon Jun 04 09:25:22.156 : Resend frame 1
+Time Mon Jun 04 09:25:22.156 : Recv ACK
+Time Mon Jun 04 09:25:22.156 : Send frame 0      But lost
+Time Mon Jun 04 09:25:28.156 : Timeout
+Time Mon Jun 04 09:25:28.156 : Resend frame 0      But lost
+Time Mon Jun 04 09:25:34.156 : Timeout
+Time Mon Jun 04 09:25:34.156 : Resend frame 0
+Time Mon Jun 04 09:25:40.156 : Timeout
+Time Mon Jun 04 09:25:40.156 : Resend frame 0
+Time Mon Jun 04 09:25:40.156 : Recv ACK
+Time Mon Jun 04 09:25:40.156 : Send frame 1      But lost
+Time Mon Jun 04 09:25:46.171 : Timeout
+Time Mon Jun 04 09:25:46.171 : Resend frame 1
+Time Mon Jun 04 09:25:52.171 : Timeout
+Time Mon Jun 04 09:25:52.171 : Resend frame 1
+Time Mon Jun 04 09:25:58.171 : Timeout
+Time Mon Jun 04 09:25:58.171 : Resend frame 1
+Time Mon Jun 04 09:25:58.171 : Recv ACK
+Time Mon Jun 04 09:25:58.171 : Send frame 0      But lost
+Time Mon Jun 04 09:26:04.171 : Timeout
+Time Mon Jun 04 09:26:04.171 : Resend frame 0
+Time Mon Jun 04 09:26:06.171 : Recv ACK
+Time Mon Jun 04 09:26:06.171 : Send frame 1
+Time Mon Jun 04 09:26:09.171 : Recv ACK
+Time Mon Jun 04 09:26:09.171 : Send frame 0      But lost
+Time Mon Jun 04 09:26:15.171 : Timeout
+Time Mon Jun 04 09:26:15.171 : Resend frame
+Time Mon Jun 04 09:26:15.171 : Recv ACK
+Time Mon Jun 04 09:26:15.171 : Disconnect

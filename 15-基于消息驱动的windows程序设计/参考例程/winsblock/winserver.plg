@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: winserver - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\djs\LOCALS~1\Temp\RSP47.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/winserver.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\djs\documents\课程教案\网络软件设计\2004年\实验\16-基于消息驱动的windows程序设计\winsnblock\winserver.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\djs\LOCALS~1\Temp\RSP47.tmp" 
+Creating temporary file "C:\DOCUME~1\djs\LOCALS~1\Temp\RSP48.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/winserver.pdb" /debug /machine:I386 /out:"Debug/winserver.exe" /pdbtype:sept 
+".\Debug\StdAfx.obj"
+".\Debug\winserver.obj"
+".\Debug\winserver.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\djs\LOCALS~1\Temp\RSP48.tmp"
+<h3>Output Window</h3>
+Compiling...
+winserver.cpp
+C:\Documents and Settings\djs\documents\课程教案\网络软件设计\2004年\实验\16-基于消息驱动的windows程序设计\winsnblock\winserver.cpp(249) : warning C4101: 'arg' : unreferenced local variable
+Linking...
+
+
+
+<h3>Results</h3>
+winserver.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

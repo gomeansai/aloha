@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: coclient - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/coclient.res" /d "_DEBUG" "C:\Documents and Settings\djs\My Documents\课程教学\网络软件设计（本）\实验\实验\18-MFC工程\面向连接客户机\coclient.rc"" 
+Creating temporary file "C:\DOCUME~1\djs\LOCALS~1\Temp\RSP42.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/coclient.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\djs\My Documents\课程教学\网络软件设计（本）\实验\实验\18-MFC工程\面向连接客户机\coclient.cpp"
+"C:\Documents and Settings\djs\My Documents\课程教学\网络软件设计（本）\实验\实验\18-MFC工程\面向连接客户机\coclientDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\djs\LOCALS~1\Temp\RSP42.tmp" 
+Creating temporary file "C:\DOCUME~1\djs\LOCALS~1\Temp\RSP43.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/coclient.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\djs\My Documents\课程教学\网络软件设计（本）\实验\实验\18-MFC工程\面向连接客户机\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\djs\LOCALS~1\Temp\RSP43.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/coclient.pdb" /debug /machine:I386 /out:"Debug/coclient.exe" /pdbtype:sept  ".\Debug\coclient.obj" ".\Debug\coclientDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\coclient.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+coclient.cpp
+coclientDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+coclient.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
